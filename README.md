@@ -1,4 +1,4 @@
-# GTA ONLINE
+# GTAOMacro (Forked & Fixed).
 
 This was made to bind in-game options to key bindings. 
 
