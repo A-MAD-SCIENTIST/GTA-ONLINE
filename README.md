@@ -10,7 +10,6 @@ Very unlikely to be banned.
 
 # Installation 
 
-(EXE AVAILABLE SOON, last min testing) 
 
 Download and extract folders into a folder, i.e, Desktop. 
 
