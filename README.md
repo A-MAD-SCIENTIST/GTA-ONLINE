@@ -27,7 +27,7 @@ Common:
 Eat snacks = F4
 
 
-Armor = F5
+Armor = F5 (Works only for Super Heavy Armor, who doesn't use it anyway).
 
 
 Buzzard = NUMPAD 0 & NUMPAD 4 (Press simultaneously btw)
