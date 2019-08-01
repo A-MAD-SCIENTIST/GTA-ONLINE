@@ -4,7 +4,7 @@ This was made to bind in-game options to key bindings.
 
 One of the biggest two is snacks and body armor for heists.
 
-You can find a VirusTotal scan [here](https://www.virustotal.com/#/file/e34be4f70a872885df1c9ac0c2ab427718f23eae462b0dbfe79d025351caad43/detection) :)
+You can find a VirusTotal scan [here](https://www.virustotal.com/gui/file/26d86bc1d39bdf170c32715bf8af86faac87652bf9d61d0a9c6989f0148114a4/detection) :)
 
 Very unlikely to be banned.
 
@@ -16,6 +16,13 @@ Download and extract folders into a folder, i.e, Desktop.
 Run the GTAOMacro.exe as Administrator.
 
 Once done, load up GTA Online.
+
+# Changelog 
+
+=-=01/08/19=-=
+
+Fixes Armor / Snack that was broken in the Casino update. Can't be arsed to fix the reset yet. I'll probably get round to it though.
+
 
 # Controls 
 
