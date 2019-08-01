@@ -23,6 +23,8 @@ Once done, load up GTA Online.
 
 Fixes Armor / Snack that was broken in the Casino update. Can't be arsed to fix the reset yet. I'll probably get round to it though.
 
+A few back end changes.
+
 
 # Controls 
 
