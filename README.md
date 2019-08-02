@@ -2,7 +2,7 @@
 
 This was made to bind in-game options to key bindings. 
 
-One of the biggest two is snacks and body armor for heists.
+One of the biggest two is snacks and body armor for heists. What is it useful for? CRIMINAL MASTERMIND
 
 You can find a VirusTotal scan [here](https://www.virustotal.com/gui/file/26d86bc1d39bdf170c32715bf8af86faac87652bf9d61d0a9c6989f0148114a4/detection) :)
 
@@ -21,7 +21,7 @@ Once done, load up GTA Online.
 
 =-=01/08/19=-=
 
-Fixes Armor / Snack that was broken in the Casino update. Can't be arsed to fix the reset yet. I'll probably get round to it though.
+Fixes Armor / Snack that was broken in the Casino update. Can't be arsed to fix the rest yet. I'll probably get round to it though.
 
 A few back end changes.
 
